@@ -1,0 +1,32 @@
+# .gitignore
+
+# Compiled Java class files
+*.class
+
+# Logs
+*.log
+
+# Build output directories
+bin/
+target/
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Node.js files
+node_modules/
